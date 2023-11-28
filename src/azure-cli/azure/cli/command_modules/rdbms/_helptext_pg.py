@@ -754,7 +754,7 @@ short-summary: Manage advanced threat protection setting for a PostgreSQL flexib
 
 helps['postgres flexible-server advanced-threat-protection-setting update'] = """
 type: command
-short-summary: Updates advanced threat protection setting state for a flexible server.
+short-summary: Update advanced threat protection setting state for a flexible server.
 examples:
   - name: >
       Enable advanced threat protection setting for a PostgreSQL flexible server.
